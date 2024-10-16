@@ -10,15 +10,11 @@
 \RequirePackage{tikz}
 \RequirePackage[left=0.5in, top=0.05in, right=0.5in, bottom=0.0in]{geometry} % DOCUMENT MARGINS
 \RequirePackage{hyperref}
-\RequirePackage{fontawesome}
 \RequirePackage{mfirstuc}
 \RequirePackage{ifthen}
-\RequirePackage{lipsum}
 \RequirePackage{array}
 \usepackage{booktabs}
 \pagestyle{empty}
-
-\usepackage{comment}
 
 % Setup
 \newcommand*{\setname}[2]{\def\@firstname{#1}\def\@lastname{#2}}
